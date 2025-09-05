@@ -11,10 +11,9 @@ Objectif : comprendre les routes, la validation et la doc auto **sans complexit�
 ## 🧰 Stack
 - **Python 3.11+**
 - **FastAPI**
-- **Uvicorn**
-- **Pillow** (lecture basique d’images)
 - **python-multipart** (upload)
-
+- **passlib*
+- **pyjwt*
 ## 🚀 Lancer en local
 
 ```bash
